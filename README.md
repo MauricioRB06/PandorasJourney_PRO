@@ -1,0 +1,2 @@
+# PandorasJourney_PRO
+ Pandoras Journey Prototype, is a prototype of an action adventure video game where we will play Pandora, an adorable bunny who must get home on time if she does not want to spoil the cupcakes that are in the oven, but first she must survive the strange world where she is after falling into a burrow by accident, this is an initial prototype to test the mechanics and basic gameplay and will serve as a basis to begin the development of a full video game by my independent game development studio Viral Games Entertainment.
